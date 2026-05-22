@@ -11,7 +11,7 @@
       <sub>📚 <a href="https://github.com/mrdbourke/zero-to-mastery-ml">github.com/mrdbourke/zero-to-mastery-ml</a></sub>
       <br/><br/>
       <b>Overall Progress</b><br/>
-      <img src="https://progress-bar.xyz/2/?title=In+Progress&width=400&color=6366f1" alt="1% complete"/>
+      <img src="https://progress-bar.xyz/10/?title=In+Progress&width=400&color=6366f1" alt="1% complete"/>
       <br/><br/>
       <details>
         <summary><b>📋 Section Breakdown</b></summary>
