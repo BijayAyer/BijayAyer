@@ -17,7 +17,7 @@
         <summary><b>📋 Section Breakdown</b></summary>
         <br/>
         <b>✅ Section 1 — Getting Ready for ML</b><br/>
-        <img src="https://progress-bar.xyz/98/?title=Complete&width=340&color=22c55e" alt="1%"/><br/><br/>
+        <img src="https://progress-bar.xyz/100/?title=Complete&width=340&color=22c55e" alt="1%"/><br/><br/>
         <b>✅ Section 2 — Data Science & ML Tools</b><br/>
         <img src="https://progress-bar.xyz/0/?title=Complete&width=340&color=22c55e" alt="0%"/><br/><br/>
         <b>🔄 Section 3 — Structured Data Projects</b><br/>
