@@ -11,7 +11,7 @@
       <sub>📚 <a href="https://github.com/mrdbourke/zero-to-mastery-ml">github.com/mrdbourke/zero-to-mastery-ml</a></sub>
       <br/><br/>
       <b>Overall Progress</b><br/>
-      <img src="https://progress-bar.xyz/20/?title=In+Progress&width=400&color=6366f1" alt="1% complete"/>
+      <img src="https://progress-bar.xyz/23/?title=In+Progress&width=400&color=6366f1" alt="1% complete"/>
       <br/><br/>
       <details>
         <summary><b>📋 Section Breakdown</b></summary>
@@ -19,7 +19,7 @@
         <b>✅ Section 1 — Getting Ready for ML</b><br/>
         <img src="https://progress-bar.xyz/100/?title=Complete&width=340&color=22c55e" alt="1%"/><br/><br/>
         <b>✅ Section 2 — Data Science & ML Tools</b><br/>
-        <img src="https://progress-bar.xyz/20/?title=Complete&width=340&color=22c55e" alt="0%"/><br/><br/>
+        <img src="https://progress-bar.xyz/26/?title=Complete&width=340&color=22c55e" alt="0%"/><br/><br/>
         <b>🔄 Section 3 — Structured Data Projects</b><br/>
         <img src="https://progress-bar.xyz/0/?title=In+Progress&width=340&color=f59e0b" alt="0%"/><br/><br/>
         <b>⏳ Section 4 — Unstructured Data & Deep Learning</b><br/>
